@@ -1,0 +1,1 @@
+{\n  "extends": "expo/tsconfig.base",\n  "compilerOptions": {\n    "strict": true,\n    "noImplicitAny": true,\n    "jsx": "react-native",\n    "types": ["react", "react-native"]\n  }\n}
