@@ -1,0 +1,15 @@
+export const colors = {
+  background: "#F7F5F1",
+  card: "#FFFFFF",
+  text: "#1F2933",
+  muted: "#6B7280",
+  primary: "#5B8DEF",
+  secondary: "#F2C94C",
+  accent: "#68D391",
+  border: "#E5E7EB",
+  jarOutline: "#3B4C5A",
+  jarFill: "#79C2FF",
+  jarLid: "#2F3E4D",
+  danger: "#E76F51",
+  shadow: "rgba(15, 23, 42, 0.1)",
+};
